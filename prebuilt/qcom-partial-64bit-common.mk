@@ -26,4 +26,4 @@ PRODUCT_PACKAGES += \
 	libsensor_reg \
 	libta \
 	libxml \
-	libxml2
+	
